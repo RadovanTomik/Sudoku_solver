@@ -1,2 +1,2 @@
 # Sudoku_solver
-An app for solving sudokus
+Can solve any sudoku using a recursive algorithm
