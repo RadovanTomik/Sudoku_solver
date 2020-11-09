@@ -84,9 +84,3 @@ def solve(board):
             board[row][column] = 0
 
     return False
-
-print_board(example_board)
-solve(example_board)
-print(" ")
-print(" ")
-print_board(example_board)
